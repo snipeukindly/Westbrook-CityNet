@@ -1,1 +1,9 @@
 
+{
+  "product": "Westbrook CityNet",
+  "version": "2.2.0",
+  "release_date": "2026-07-19",
+  "summary": "Initial commercial release.",
+  "download_url": "https://westbrook-development.tebex.io/package/YOUR_PACKAGE_ID",
+  "changelog_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/CHANGELOG.md"
+}
